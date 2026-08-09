@@ -1,10 +1,11 @@
 #Datathon FIAP — Passos Mágicos
 
-# Integrantes:#
+Integrantes:
 Raimar de Assis Modesto
+
 Luis Gustavo Barbosa Ribeiro
-# Turma:# Pós Tech - 11DTAT
-# Data Analytics — FIAP
+Turma: Pós Tech - 11DTAT
+Data Analytics — FIAP
 
 Projeto desenvolvido para o **Datathon da Fase 5 da Pós-Tech FIAP**, utilizando
 os dados PEDE de 2022, 2023 e 2024 da Passos Mágicos.
