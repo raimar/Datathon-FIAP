@@ -1,4 +1,10 @@
-# 📚 Datathon FIAP — Passos Mágicos
+#Datathon FIAP — Passos Mágicos
+
+# Integrantes:#
+Raimar de Assis Modesto
+Luis Gustavo Barbosa Ribeiro
+# Turma:# Pós Tech - 11DTAT
+# Data Analytics — FIAP
 
 Projeto desenvolvido para o **Datathon da Fase 5 da Pós-Tech FIAP**, utilizando
 os dados PEDE de 2022, 2023 e 2024 da Passos Mágicos.
@@ -9,7 +15,7 @@ Analisar a evolução dos alunos, identificar fatores relacionados à defasagem 
 desenvolver um modelo preditivo capaz de estimar a probabilidade de piora da
 defasagem no período seguinte.
 
-## 🤖 Modelo preditivo
+## Modelo preditivo
 
 O alvo utilizado foi:
 
@@ -33,7 +39,7 @@ Modelo escolhido: **Random Forest**
 | Precision (threshold 0,35) | 44,5% |
 | F1-Score (threshold 0,35) | 56,5% |
 
-## 📊 Principais resultados
+## Principais resultados
 
 - Alunos em defasagem: **69,9% em 2022 → 46,2% em 2024**
 - INDE médio: **7,04 → 7,40**
@@ -41,7 +47,7 @@ Modelo escolhido: **Random Forest**
 - Nessa coorte, a defasagem média evolui de aproximadamente **-0,85 → -0,23**
 - O percentual em defasagem da coorte cai de aproximadamente **67,3% → 34,8%**
 
-## 🚀 Aplicação Streamlit
+## Aplicação Streamlit
 
 A aplicação possui quatro áreas:
 
@@ -56,7 +62,7 @@ A aplicação possui quatro áreas:
 
 `https://SEU-APP.streamlit.app`
 
-## 📁 Estrutura do repositório
+## Estrutura do repositório
 
 ```text
 .
@@ -74,14 +80,14 @@ A aplicação possui quatro áreas:
     └── Datathon_Passos_Magicos_Storytelling.pdf
 ```
 
-## ▶️ Executar localmente
+## Executar localmente
 
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## ⚠️ Observação
+## Observação
 
 O modelo é uma ferramenta de **apoio à decisão**. A probabilidade de risco não
 deve ser utilizada como decisão automática sobre o aluno e deve ser analisada
