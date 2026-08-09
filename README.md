@@ -13,7 +13,7 @@ Data Analytics — FIAP
 Projeto desenvolvido para o **Datathon da Fase 5 da Pós-Tech FIAP**, utilizando
 os dados PEDE de 2022, 2023 e 2024 da Passos Mágicos.
 
-## 🎯 Objetivo
+## Objetivo
 
 Analisar a evolução dos alunos, identificar fatores relacionados à defasagem e
 desenvolver um modelo preditivo capaz de estimar a probabilidade de piora da
